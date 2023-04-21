@@ -1,0 +1,3 @@
+gitignore
+#.classを除外
+*.class
